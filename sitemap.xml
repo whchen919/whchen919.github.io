@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/skills/index.html</loc>
-    
-    <lastmod>2022-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/projects/index.html</loc>
     
     <lastmod>2022-03-13</lastmod>
@@ -49,7 +40,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-03-26</lastmod>
+    <lastmod>2022-03-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
