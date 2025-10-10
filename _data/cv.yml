@@ -2,11 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Wei-Han Chen
     - name: Date of Birth
-      value: 14th March 1879
+      value: Sep. 1993
+    - name: Citizenship
+      value: Taiwan (U.S. Permanent Resident)
     - name: Languages
-      value: English, German
+      value: English, Mandarin Chinese, Taiwanese
 
 - title: Education
   type: time_table

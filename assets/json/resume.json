@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Wei-Han Chen",
+    "position": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wchen669@gatech.edu",
+    "phone": "",
+    "url": "https://whchen919.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "620 Cherry St NW",
+      "postalCode": "GA 30332",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
+      "region": "Georgia"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Vertical Lift Research Center of Excellence, Georgia Institute of Technology",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2022-01-02",
+      "endDate": "",
+      "summary": "Designed and conduct wind tunnel experiments on helicopter ship-deck landing using 6-DOF force transducers, pressure scanners, and PIV systems.",
+      "highlights": ["Rotorcraft Aerodynamics", "Ship Airwake", "Wind Tunnel Testing", "PIV"]
     }
   ],
   "volunteer": [
