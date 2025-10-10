@@ -9,7 +9,7 @@ profile:
   image: WHChen.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Georgia Institute of Technology</p>
+    <p>Georgia Technology</p>
     <p>Montgomery Knight Rm108</p>
     <p>Atlanta, GA 30332</p>
 
