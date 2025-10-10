@@ -29,8 +29,17 @@
       "url": "",
       "startDate": "2022-01-02",
       "endDate": "",
-      "summary": "Designed and conduct wind tunnel experiments on helicopter ship-deck landing using 6-DOF force transducers, pressure scanners, and PIV systems.",
-      "highlights": ["Rotorcraft Aerodynamics", "Ship Airwake", "Wind Tunnel Testing", "PIV"]
+      "summary": "Design and conduct wind tunnel experiments on helicopter ship-deck landing using 6-DOF force transducers, pressure scanners, and PIV systems.",
+      "highlights": ["Rotorcraft Aerodynamics", "Wind Tunnel Testing", "PIV"]
+    },
+    {
+      "name": "Aerospace Science and Technology Research Center, NCKU",
+      "position": "Research Engineer",
+      "url": "",
+      "startDate": "2020-04-01",
+      "endDate": "2021-07-31",
+      "summary": "Mechanical design of experimental apparatus for low-speed wind tunnel testing of an aircraft model in a spinning motion using an integrated sting balance.",
+      "highlights": ["Stall Spin", "Fxied-wing Aerodynamics", "Wind Tunnel Testing"]
     }
   ],
   "volunteer": [
@@ -151,7 +160,12 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Mandarin Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Taiwanese",
       "fluency": "Native speaker",
       "icon": ""
     },
