@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-ship-airwake-rotor-aerodynamic-interactions",
           title: 'Ship-Airwake-Rotor Aerodynamic Interactions',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ShipRotor/";
             },},{
