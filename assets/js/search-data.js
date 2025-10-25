@@ -52,7 +52,12 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-aircraft-stall-spin-charateristics",
+      },{id: "projects-flapping-wing-aerodynamics",
+          title: 'Flapping-Wing Aerodynamics',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FlappingWing/";
+            },},{id: "projects-aircraft-stall-spin-charateristics",
           title: 'Aircraft Stall-Spin Charateristics',
           description: "Development of a rotary balance for aircraft stall-spin investigation",
           section: "Projects",handler: () => {
