@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Soteria - VFS Student Design Competition
+title: Soteria
+description: 2nd place in the 40th VFS graduate student design competition
 img: assets/img/Soteria/Soteria.png
 importance: 2
 category: Student Activities
