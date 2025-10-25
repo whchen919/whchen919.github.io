@@ -249,14 +249,14 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Juergen Rauleder",
       "icon": "fa-solid fa-user",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Assistant Professor and Associate Director of Vertical Lift Research Center of Excellence at Georgia Tech."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Szu-I Yeh",
       "icon": "fa-solid fa-user",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Associate Professor in Fluid Mechanics and Aerodynamics at National Cheng Kung University."
     }
   ],
   "projects": [
