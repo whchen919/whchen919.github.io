@@ -57,9 +57,9 @@ ninja.data = [{
           description: "Subscale wind tunnel investigation of helicopter shipboard operations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ShipRotor/";
-            },},{id: "projects-soteria-vfs-student-design-competition",
-          title: 'Soteria - VFS Student Design Competition',
-          description: "",
+            },},{id: "projects-soteria",
+          title: 'Soteria',
+          description: "2nd place in the 40th VFS graduate student design competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Soteria/";
             },},{
