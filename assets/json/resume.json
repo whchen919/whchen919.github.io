@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Wei-Han Chen",
-    "position": "PhD Student/Graduate Research Assistant",
+    "position": "PhD Student/Graduate Research Assistant at Georgia Tech",
     "citizenship": "Taiwan (U.S. Permanent Resident)",
     "image": "",
     "email": "wchen669@gatech.edu",
@@ -25,7 +25,7 @@
   },
   "work": [
     {
-      "name": "Vertical Lift Research Center of Excellence, Georgia Institute of Technology",
+      "name": "Vertical Lift Research Center of Excellence, Georgia Tech",
       "position": "Graduate Research Assistant",
       "url": "https://ae.gatech.edu/directory/category/vertical-lift-research-center-excellence-vlrcoe",
       "startDate": "2022-01-10",
@@ -178,7 +178,7 @@
     //   "icon": "fa-solid fa-clipboard-check"
     // }
   ],
-  "publications": [
+  "selected publications": [
     {
       "name": "Unsteady Loads of a Scaled Rotor on and near the Landing Deck of the NATO Generic Destroyer with Concurrent Stereo PIV and Surface Pressure Measurements",
       "publisher": "Journal of the American Helicopter Society",
