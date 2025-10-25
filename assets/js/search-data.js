@@ -79,7 +79,7 @@ ninja.data = [{
               window.location.href = "/projects/SolarUAV/";
             },},{id: "projects-soteria",
           title: 'Soteria',
-          description: "2nd place in the 40th VFS graduate student design competition",
+          description: "A tiltrotor designed by Georgia Tech that won 2nd place in the 40th VFS graduate student design competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Soteria/";
             },},{
