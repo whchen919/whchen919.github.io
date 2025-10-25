@@ -250,12 +250,12 @@
   "references": [
     {
       "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
       "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-user",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
