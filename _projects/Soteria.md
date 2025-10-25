@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soteria
-description: 2nd place in the 40th VFS graduate student design competition
+description: A tiltrotor designed by Georgia Tech that won 2<sup>nd</sup> place in the 40<sup>th</sup> VFS graduate student design competition
 img: assets/img/projects/Soteria/Soteria_Cover.png
 importance: 1
 category: Student Activities
