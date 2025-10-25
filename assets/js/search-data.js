@@ -72,6 +72,11 @@ ninja.data = [{
           description: "Subscale wind tunnel investigation of helicopter shipboard operations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ShipRotor/";
+            },},{id: "projects-solar-powered-uav",
+          title: 'Solar-Powered UAV',
+          description: "Electric fixed-wing UAVs of different aerodynamic configurations with wing-integrated high-efficiency solar cells.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SolarUAV/";
             },},{id: "projects-soteria",
           title: 'Soteria',
           description: "2nd place in the 40th VFS graduate student design competition",
