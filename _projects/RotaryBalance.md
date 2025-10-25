@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Soteria
-description: 2nd place in the 40th VFS graduate student design competition
-img: assets/img/Projects/Soteria/Soteria_Cover.png
-importance: 2
-category: Student Activities
+title: Aircraft Stall-Spin Charateristics
+description: Development of a rotary balance for aircraft stall-spin investigation
+img: assets/img/projects/RotaryBalance/RotaryBalance_Cover.jpg
+importance: 1
+category: Research
 related_publications: true
 ---
 
-Placed 2nd in the 40th Vertical Flight Society Graduate Student Design Competition, Soteria is a high-speed compound foldable tiltrotor configuration designed to carry a large payload volume with a minimum 450-knot cruise speed at altitudes above 20,000 ft and achieving a minimum radius of operation of over 500 nautical miles, while being able to operate over unprepared surfaces.
+A rotary balance system to characterize the aerodynamic responses of an aircraft in a spinning motion was developed at the Aerospace Science and Technology Research Center (ASTRC) of National Cheng Kung University (NCKU).  Experiments conducted with the Standard Dynamics Model (SDM), which is a generic fighter aircraft model, showed good agreement with available data extracted from previous studies.
 
 <hr>
 
