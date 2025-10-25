@@ -3,7 +3,7 @@ layout: page
 title: Aircraft Stall-Spin Charateristics
 description: Development of a rotary balance for aircraft stall-spin investigation
 img: assets/img/projects/RotaryBalance/RotaryBalance_Cover.jpg
-importance: 1
+importance: 2
 category: Research
 related_publications: true
 ---
