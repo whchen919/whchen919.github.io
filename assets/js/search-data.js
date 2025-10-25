@@ -54,9 +54,14 @@ ninja.data = [{
         },
       },{id: "projects-ship-airwake-rotor-aerodynamic-interactions",
           title: 'Ship-Airwake-Rotor Aerodynamic Interactions',
-          description: "",
+          description: "Subscale wind tunnel investigation of helicopter shipboard operations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ShipRotor/";
+            },},{id: "projects-soteria-vfs-student-design-competition",
+          title: 'Soteria - VFS Student Design Competition',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Soteria/";
             },},{
         id: 'social-email',
         title: 'email',
