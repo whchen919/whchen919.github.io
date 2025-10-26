@@ -52,7 +52,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 </div>
 
 <div class="row justify-content-sm-center">
-<iframe width="90%" aspect-ratio= "16 / 9" src="https://www.youtube.com/embed/pd8myZq5FcE?si=JySXkT7yBAeM0qio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="90%" height="100%" src="https://www.youtube.com/embed/pd8myZq5FcE?si=JySXkT7yBAeM0qio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <div class="caption">
     Sample measurement results of an approaching rotor along a 3-deg approach path towards the landing deck
