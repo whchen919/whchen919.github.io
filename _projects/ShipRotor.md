@@ -53,7 +53,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 {% cite chen2024unsteadyJAHS %}
 {% cite chen2025windtunnel %}
-{% cite chen2025windtunnel %}
+{% cite chen2026subscale %}
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
