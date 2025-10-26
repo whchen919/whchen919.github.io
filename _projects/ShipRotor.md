@@ -51,7 +51,9 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+<div class="row justify-content-sm-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd8myZq5FcE?si=JySXkT7yBAeM0qio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 {% cite chen2024unsteadyJAHS %}
 {% cite chen2025windtunnel %}
