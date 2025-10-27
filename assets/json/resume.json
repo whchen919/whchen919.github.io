@@ -99,7 +99,7 @@
       "summary": ""
     },
     {
-      "title": "2<sup>nd</sup> Place — The Vertical Flight Society 40th Student Design Competition",
+      "title": "2<sup>nd</sup> Place — The Vertical Flight Society 40th Graduate Student Design Competition",
       "date": "2023-08",
       "awarder": "Veritcal Flight Scociety",
       "url": "",
@@ -209,9 +209,9 @@
       "keywords": [
         "Low-speed wind tunnel testing",
         "Single-/Multi-axis force/torque measurement",
-        "Unsteady surface pressure measurement with pressure scanners and piezoelectric transducers",
+        "Unsteady pressure measurement with pressure scanners and piezoelectric transducers",
         "Stereoscopic particle image velocimetry",
-        "DAQ systems (NI, Labjack, & dSPACE MicroLabBox) and signal processing"
+        "DAQ systems (Labjack, NI, & dSPACE MicroLabBox) and signal processing"
       ]
     },
     {
@@ -219,14 +219,14 @@
       "level": "Master",
       "icon": "fa-solid fa-hammer",
       "keywords": [
-        "Computer aided mechanical design",
-        "Kinematic Simulation",
-        "Structural Analysis",
-        "Circuit Board Layout Design",
-        "FDM 3D-Printing",
+        "Computer-aided mechanical design",
+        "Kinematic simulation",
+        "Structural analysis",
+        "Printed circuit board design",
+        "FDM 3D-printing",
         "Mill, Lathe, Waterjet, & etc.",
-        "CNC Machining",
-        "Vacuum-Assisted Resin Transfer Molding"
+        "CNC machining",
+        "Vacuum-assisted resin transfer molding"
       ]
     },
     {
@@ -236,8 +236,8 @@
       "keywords": [
         "Pixhawk flight controller integration",
         "PX4 firmware customization",
-        "X-Plane — HITL simulation",
-        "FAA Part107 Certified Pilot"
+        "X-Plane HITL simulation",
+        "FAA Part107 certified drone pilot"
       ]
     },
     {
@@ -260,6 +260,7 @@
       "level": "Master",
       "icon": "fa-solid fa-binary",
       "keywords": [
+        "MATLAB",
         "Arduino",
         "Python",
         "C++"
