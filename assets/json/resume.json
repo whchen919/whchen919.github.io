@@ -207,10 +207,11 @@
       "level": "Master",
       "icon": "fa-solid fa-scale-balanced",
       "keywords": [
-        "Low Speed Wind Tunnel Testing",
-        "Single-/Multi-Axis Force/Torque Measurement",
-        "Unsteady Surface Pressure Measurement with Pressure Scanners and Piezoelectric Transducers",
-        "Stereoscopic Particle Image Velocimetry"
+        "Low-speed wind tunnel testing",
+        "Single-/Multi-axis force/torque measurement",
+        "Unsteady surface pressure measurement with pressure scanners and piezoelectric transducers",
+        "Stereoscopic particle image velocimetry",
+        "DAQ systems (NI, Labjack, & dSPACE MicroLabBox) and signal processing"
       ]
     },
     {
@@ -218,7 +219,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hammer",
       "keywords": [
-        "Mechanical Design, Kinematics Simulation, & Structural Analysis",
+        "Computer aided mechanical design",
+        "Kinematic Simulation",
+        "Structural Analysis",
         "Circuit Board Layout Design",
         "FDM 3D-Printing",
         "Mill, Lathe, Waterjet, & etc.",
@@ -227,34 +230,35 @@
       ]
     },
     {
-      "name": "UAV Systems",
+      "name": "Uumanned Aerial Systems",
       "level": "Master",
       "icon": "fa-solid fa-plane",
       "keywords": [
-        "Pixhawk Flight Controller Integration",
-        "PX4 Firmware Customization",
-        "X-Plane — HITL Simulation",
+        "Pixhawk flight controller integration",
+        "PX4 firmware customization",
+        "X-Plane — HITL simulation",
         "FAA Part107 Certified Pilot"
       ]
     },
     {
-      "name": "Software",
+      "name": "Softwares & Tools",
       "level": "Master",
       "icon": "fa-solid fa-computer",
       "keywords": [
         "CATIA V5",
         "Autodesk Fusion360",
-        "XFOIL, AVL,XFLR5, OpenVSP",
+        "XFOIL, AVL, XFLR5, OpenVSP",
         "Ansys — Fluent",
         "MATLAB & Simulink",
         "dSPACE — ControlDesk",
-        "LabView"
+        "LabView",
+        "Git"
       ]
     },
     {
-      "name": "Programming",
+      "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-computer",
+      "icon": "fa-solid fa-binary",
       "keywords": [
         "Arduino",
         "Python",
