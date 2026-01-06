@@ -4,7 +4,7 @@ title: Solar-Powered UAV
 description: Electric fixed-wing UAVs of different aerodynamic configurations with wing-integrated high-efficiency solar cells.
 img: assets/img/projects/SolarUAV/SolarUAV_Cover.png
 importance: 1
-category: Personal Projects
+category: Unmanned Aerial Vehicles
 related_publications: true
 ---
 

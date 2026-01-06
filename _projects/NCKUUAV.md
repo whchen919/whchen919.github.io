@@ -1,31 +1,36 @@
 ---
 layout: page
-title: Undergraduate UAV Design Team
+title: NCKU UAV Design Team
 description: An undergraduate team dedicated to designing and prototyping fixed-wing UAVs
 img: assets/img/projects/NCKUUAV/NCKUUAV_Cover.png
 importance: 2
-category: Student Activities
-related_publications: true
+category: Unmanned Aerial Vehicles
+related_publications: false
 ---
 
-An undergraduate team dedicated to designing different configurations of fixed-wing UAVs, ranging from conventional, V-tail, canard, to boxed-wings. I was honor to serve as the team lead when we participated and won several awards in the annual Taiwan Innovated UAV Design Competition.
+The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at the National Cheng Kung University (NCKU) is an organization run by students. The team is dedicated to designing different aerodynamic configurations of fixed-wing UAVs, ranging from conventional, V-tail, canard, boxed-wings, and etc. We've participated in various design competitions, equivelent to the AIAA Design, Build, Fly competition, in Taiwan. I was honored to serve as the team lead when we participated and won several awards in the annual Taiwan Innovated UAV Design Competition in 2016. After graduated from college, I continued to provide guidance and support to the team alongside the studies for my Master's degree.
 
 <hr>
 
+<h3> The Blazing Sun (烈焰千陽) </br>
+
+
+
+
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TBS_2.jpg" title="Ground Roll" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TBS_1.jpg" title="Take-off" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Photos of The Blazing Sun during one of the test flights.
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
