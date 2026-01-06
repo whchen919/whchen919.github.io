@@ -25,15 +25,25 @@ The Blazing Sun is a canard
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_1.jpg" title="Take-off" class="img-fluid rounded z-depth-1" %}
     </div>
-
 </div>
 <div class="caption">
     Photos of The Blazing Sun during one of the test flights.
 </div>
 
+
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_3.jpg" title="Exterior CAD" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_4.jpg" title="Structural CAD" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_5.jpg" title="CFD" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
