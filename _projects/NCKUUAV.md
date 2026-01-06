@@ -12,7 +12,7 @@ The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at t
 
 <hr>
 
-<h3> The Blazing Sun (烈焰千陽) </br>
+<h3> The Blazing Sun (烈焰千陽) </h3>
 
 The Blazing Sun is a canard 
 
@@ -20,10 +20,10 @@ The Blazing Sun is a canard
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/TBS_2.jpg" title="Ground Roll" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_2.jpg" title="Ground Roll" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/TBS_1.jpg" title="Take-off" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_1.jpg" title="Take-off" class="img-fluid rounded z-depth-1" %}
     </div>
 
 </div>
