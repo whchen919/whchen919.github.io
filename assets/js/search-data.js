@@ -35,8 +35,8 @@ ninja.data = [{
           description: "Designed and built multi-articulate flapping-wing robot for aerodynamic assessment",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FlappingWing/";
-            },},{id: "projects-undergraduate-uav-design-team",
-          title: 'Undergraduate UAV Design Team',
+            },},{id: "projects-ncku-uav-design-team",
+          title: 'NCKU UAV Design Team',
           description: "An undergraduate team dedicated to designing and prototyping fixed-wing UAVs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NCKUUAV/";
