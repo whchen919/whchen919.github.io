@@ -14,7 +14,7 @@ The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at t
 
 <h3> The Blazing Sun (烈焰千陽) </br>
 
-
+The Blazing Sun is a canard 
 
 
 
