@@ -27,7 +27,7 @@ The Blazing Sun is a canard
     </div>
 </div>
 <div class="caption">
-    Photos of The Blazing Sun during one of the test flights.
+    Photos of The Blazing Sun during test flights.
 </div>
 
 
