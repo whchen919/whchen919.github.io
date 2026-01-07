@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at the National Cheng Kung University (NCKU) is an organization run by students. The team is dedicated to designing different aerodynamic configurations of fixed-wing UAVs, ranging from conventional, V-tail, canard, boxed-wings, and etc. We've participated in various design competitions, equivelent to the AIAA Design, Build, Fly competition, in Taiwan. I was honored to serve as the team lead when we participated and won several awards in the annual Taiwan Innovated UAV Design Competition in 2016. After graduated from college, I continued to provide guidance and support to the team alongside the studies for my Master's degree.
+<br>
 
 <hr>
 
@@ -69,15 +70,19 @@ In the early deisign phases, the vehicle performances were estimated using equat
     </div>
 </div>
 
+<br>
+<br>
+
 <hr>
 
-<h3>  </h3>
+<h3> Flying the Aircraft </h3>
+
+In addition to designing and building UAV prototypes, I also enjoy flying them myself! It feels remarkable when being able to fly the aircaft that we've built ourselves and watch it soar in the skies. Currently, I am a FAA part 107 certified remote pilot.
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBMStK3i3dI?si=IhTwvmxgi6-Lq6vX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-<br>
 <br>
 <br>
 
