@@ -29,7 +29,7 @@ The Blazing Sun is a fixed-wing UAV that had a wing span of 2.4 m and a designed
 </div>
 
 
-In the early deisign phases, the vehicle performances were estimated using equations and formulas such as those from the USAF S&C DATCOM. Additionally, AVL (Athena Vortex Lattice) was also used during the preliminary design phase to estimate the performace and both static and dynamic stability of the aircraft. CFD using ANSYS Fluent was also performed to verify the vehicle performance, stability margin, and also assess the effectness of the added winglets and how it increased the overall flight efficiency. Once a final geometric design was settled, the detialed shape and structures were modeled in CATIA. The final vehicle prototpye was mainly built out of balsa wood and firber glass/carbon fiber lamninated boards that were all fabricated in-house by the team.
+In the early deisign phases, the vehicle performances were estimated using equations and formulas such as those from the USAF S&C DATCOM. Additionally, AVL (Athena Vortex Lattice) was also used during the preliminary design phase to estimate the performace and both static and dynamic stability of the aircraft. CFD using ANSYS Fluent was also performed to verify the vehicle performance, stability margin, and also assess the effectness of the added winglets and how it increased the overall flight efficiency. Once the design was settled, the detialed shape and structures were modeled in CATIA. The final vehicle prototpye was mainly built out of balsa wood and firber glass/carbon fiber lamninated boards that were all fabricated in-house by the team.
 
 
 <div class="row">
@@ -71,11 +71,15 @@ In the early deisign phases, the vehicle performances were estimated using equat
 
 <hr>
 
-<h3> Remote Piloting </h3>
+<h3>  </h3>
 
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBMStK3i3dI?si=IhTwvmxgi6-Lq6vX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
-
+<br>
+<br>
+<br>
 
 <hr>
 
