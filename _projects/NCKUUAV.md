@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NCKU UAV Design Team
-description: An undergraduate team dedicated to designing and prototyping fixed-wing UAVs
+description: A student organization dedicated to designing and prototyping fixed-wing UAVs
 img: assets/img/projects/NCKUUAV/NCKUUAV_Cover.png
 importance: 2
 category: Unmanned Aerial Vehicles
