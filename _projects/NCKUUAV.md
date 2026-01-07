@@ -36,9 +36,15 @@ The Blazing Sun is a canard
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_3.jpg" title="Exterior CAD" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Outer mold line (OML) of The Blazing Sun.
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_4.jpg" title="Structural CAD" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Detailed structure layout of The Blazing Sun in CATIA.
+        </div>
     </div>
 </div>
 <div class="row">
@@ -47,8 +53,9 @@ The Blazing Sun is a canard
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    CFD simulation to assess the effectness of added winglets.
 </div>
+
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
@@ -57,20 +64,12 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-            Outer mold line (OML) of The Blazing Sun in CATIA.
-        </div>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-        <div class="caption">
-            Detailed structure layout of The Blazing Sun in CATIA.
-        </div>
 </div>
-<div class="caption">
-    CFD simulation to assess the effectness of added winglets.
-</div>
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
