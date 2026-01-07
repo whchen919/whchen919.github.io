@@ -14,7 +14,7 @@ The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at t
 
 <h3> The Blazing Sun (烈焰千陽) </h3>
 
-The Blazing Sun is a fixed-wing UAV that had a wing span of 2.4 m and a designed maximum take-off weight of 15 kg. It was designed and built along with our team members during my senior year in college. A canard configuration was chosen to challenge our capability to design a unconventional aircraft that was both stable and also adequately maneuvorable in flight. It competed in the Taiwan Innovated UAV Design Competition in 2016 and secured multiple awards, including the Best Aerodynamic Design Award.
+<i>The Blazing Sun</i> is a fixed-wing UAV that had a wing span of 2.4 m and a designed maximum take-off weight of 15 kg. It was designed and built along with our team members during my senior year in college. A canard configuration was chosen to challenge our capability to design a unconventional aircraft that was both stable and also adequately maneuvorable in flight. It competed in the Taiwan Innovated UAV Design Competition in 2016 and secured multiple awards, including the Best Aerodynamic Design Award.
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -25,7 +25,7 @@ The Blazing Sun is a fixed-wing UAV that had a wing span of 2.4 m and a designed
     </div>
 </div>
 <div class="caption">
-    Photos of The Blazing Sun during test flights.
+    Photos of <i>The Blazing Sun</i> during test flights.
 </div>
 
 
@@ -36,13 +36,13 @@ In the early deisign phases, the vehicle performances were estimated using equat
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_3.jpg" title="Exterior CAD" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Outer mold line of The Blazing Sun.
+            Outer mold line of <i>The Blazing Sun</i>.
         </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/NCKUUAV/TBS_4.jpg" title="Structural CAD" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            Detailed structure layout of The Blazing Sun.
+            Detailed structure layout of <i>The Blazing Sun</i>.
         </div>
     </div>
 </div>

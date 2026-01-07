@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate at Georgia Institute of Technology
+subtitle: PhD Candidate at Georgia Tech
 
 profile:
   align: right
@@ -33,4 +33,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-My name is Wei-Han Chen (陳威瀚) from Taiwan, a beautful country situated in East Asia. I'm currently a PhD student an also graduate research assistant under the supervision of Dr. Jeurgen Rauleder at the Georgia Institute of Technology. My research interests are in experimental aerodyanmics of air vehicles ranging from fixed-wing, rotorcraft, and biomimetic flight. I previously worked as a research engineer at the Aerospace Science and Technology Research Center in Taiwan designing and conducting wind tunnel experiments. Over the years, I have accumulated critical experiences and the ability to design, plan, and execute wind tunnel experiments with comprehensive data acquisition systems and analysis techniques. 
+My name is Wei-Han Chen (陳威瀚) from Taiwan, a beautful country situated in East Asia. I'm currently a PhD candidate and also graduate research assistant under the supervision of Dr. Jeurgen Rauleder at the Georgia Institute of Technology. My research interests are in experimental aerodyanmics of air vehicles ranging from fixed-wing, rotorcraft, and biomimetic flight. I previously worked as a research engineer at the Aerospace Science and Technology Research Center in Taiwan designing and conducting wind tunnel experiments. Over the years, I have accumulated critical experiences and the ability to design, plan, and execute wind tunnel experiments with comprehensive data acquisition systems and analysis techniques. 
