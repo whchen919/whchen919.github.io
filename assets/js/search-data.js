@@ -37,7 +37,7 @@ ninja.data = [{
               window.location.href = "/projects/FlappingWing/";
             },},{id: "projects-ncku-uav-design-team",
           title: 'NCKU UAV Design Team',
-          description: "An undergraduate team dedicated to designing and prototyping fixed-wing UAVs",
+          description: "A student organization dedicated to designing and prototyping fixed-wing UAVs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NCKUUAV/";
             },},{id: "projects-aircraft-stall-spin-charateristics",
