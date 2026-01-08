@@ -26,6 +26,7 @@
   "work": [
     {
       "name": "Vertical Lift Research Center of Excellence, Georgia Tech",
+      "location": "Atlanta, GA, USA",
       "position": "Graduate Research Assistant",
       "url": "https://ae.gatech.edu/directory/category/vertical-lift-research-center-excellence-vlrcoe",
       "startDate": "2022-01-10",
@@ -35,6 +36,7 @@
     },
     {
       "name": "Aerospace Science and Technology Research Center, NCKU",
+      "location": "Tainan, Taiwan",
       "position": "Research Engineer",
       "url": "https://astrc.ncku.edu.tw/p/412-1077-82.php?Lang=en",
       "startDate": "2020-04-01",
@@ -43,9 +45,9 @@
       "highlights": ["Stall Spin", "Fixed-wing Aerodynamics", "Wind Tunnel Testing"]
     },
     {
-      "organization": "Unmanned Aerial Vehicle Design Team, NCKU",
+      "name": "Unmanned Aerial Vehicle Design Team, NCKU",
       "location": "Tainan, Taiwan",
-      "position": "UAV Design & Technical Supervisor",
+      "position": "Design & Technical Supervisor",
       "url": "https://www.facebook.com/NCKUUAV",
       "startDate": "2017-09-01",
       "endDate": "2021-08-31",
@@ -259,9 +261,10 @@
       "icon": "fa-solid fa-binary",
       "keywords": [
         "MATLAB",
+        "Simulink",
+        "LabVIEW",
         "Arduino",
-        "Python",
-        "C++"
+        "Python"
       ]
     }
   ],
