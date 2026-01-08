@@ -40,8 +40,8 @@ ninja.data = [{
           description: "A student organization dedicated to designing and prototyping fixed-wing UAVs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NCKUUAV/";
-            },},{id: "projects-aircraft-stall-spin-charateristics",
-          title: 'Aircraft Stall-Spin Charateristics',
+            },},{id: "projects-rotary-balance",
+          title: 'Rotary Balance',
           description: "Development of a rotary balance for aircraft stall-spin investigation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RotaryBalance/";
