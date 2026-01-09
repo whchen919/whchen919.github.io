@@ -71,6 +71,15 @@ In the early deisign phases, the vehicle performances were estimated using equat
 </div>
 
 <br>
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGfRozl_Z6o?si=3mfwXUbEL5phL6cG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<div class="caption">
+    Airdrop mission during the 2016 Taiwan Innovative UAV Design Competition.
+</div>
+
+<br>
 <br>
 
 <hr>
@@ -113,20 +122,3 @@ In addition to designing and building UAV prototypes, I also enjoy flying them m
     </div>
 </div>
 
-
-
-
-<!-- {% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %} -->
