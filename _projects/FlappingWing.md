@@ -61,6 +61,24 @@ According to the lift force measurements, 4 charaterisitc phases of the wingbeat
     Phase-averaged lift of the two different wing trajectories.
 </div>
 
+<div class="row">
+    <div class="col-sm-4 offset-sm-2">
+        {% include figure.liquid path="assets/img/projects/FlappingWing/Phase1_Case1_Y=150.gif" title="Phase1_Normal" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Normal folding amplitude.
+        </div>
+    </div>
+    <div class="col-sm-4 ">
+        {% include figure.liquid path="assets/img/projects/FlappingWing/Phase1_Case2_Y=150.gif" title="Phase1_Reduced" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Reduced folding amplitude.
+        </div>
+    </div>
+</div>
+<div class="caption">
+    Stronger wake capture effect when transitioning from upstroke to downstroke with reduced folding amplitude.
+</div>
+
 
 More details can be found in a jounral paper published in <i>Bioinspiration & Biomimetics</i> {%cite chen2021aerodynamic %}.
 
