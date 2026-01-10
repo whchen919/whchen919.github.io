@@ -23,17 +23,16 @@ A new rotary balance system to characterize the aerodynamic charateristics of an
     The ASTRC Rotary Balance.
 </div>
 
-
-
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-6 offset-sm-3">
+        {% include figure.liquid loading="eager" path="assets\img\projects\RotaryBalance\RB_2.png" title="CAD" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-
 </div>
+<div class="caption">
+    Main components of the ASTRC Rotary Balance.
+</div>
+
+
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
