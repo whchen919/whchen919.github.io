@@ -25,13 +25,13 @@ Bird flight involves complicated wing kinematics, especially during hovering fli
 </div>
 
 <div class="row">
-    <div class="col-sm-3 offset-sm-3">
+    <div class="col-sm-4 offset-sm-2">
         {% include figure.liquid loading="eager" path="assets/img/projects/FlappingWing/Case1-video.gif" title="Normal folding amplitide" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Normal folding amplitide.
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         {% include figure.liquid loading="eager" path="assets/img/projects/FlappingWing/Case2-video.gif" title="Reduced folding amplitide" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Reduced folding amplitide.
