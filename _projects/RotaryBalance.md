@@ -15,7 +15,7 @@ A new rotary balance system to characterize the aerodynamic charateristics of an
 
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-6 offset-sm-3">
         {% include figure.liquid loading="eager" path="assets\img\projects\RotaryBalance\RotaryBalance_Cover.png" title="Rotary Balance" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -32,9 +32,7 @@ A new rotary balance system to characterize the aerodynamic charateristics of an
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+
 </div>
 
 The code is simple.
