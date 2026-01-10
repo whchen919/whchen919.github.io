@@ -18,7 +18,9 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
         {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_1.png" title="Apparatus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+    Experimental Apparatus.
+</div>
 
 <div class="row justify-content-sm-center">
 <div style="width: 100%; min-width: 400px; max-width: 800px;">
@@ -31,6 +33,21 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
     Sample measurement results of an approaching rotor along a 3-deg approach path towards the landing deck
 </div>
 
+
+<hr>
+<h3> Recovery of High-Frequency Pneumatic Pressure Signal </h3>
+
+The dynamic response of a pressure measuring system using pneumatic tubes is known to be prone to signal attenuation, resonance, and phase lag. These problems render them useful only when measuring static or low-frequency pressure fluctuations. Although high-frequency response pressure transducers like microphones are available, they are typically expensive and less suitable for low-pressure applications. As a result, an experimental technique to characterize the system using frequency response analysis (FRA) and recover the high-frequency components of a pneumatic pressure tube system was developed. 
+
+The system identification was performed using an enclosed test chamber with a loudspeaker installed on one side to generate fluctuating pressures. A single high-frequency response pressure sensor (PCB 103B01 microphone) serving as the reference signal was mounted on the other end of the chamber next to the pressure ports where the pneumatic tubes in question were connected.
+
+The system was programmed to sweep through a range of frequency signals to characterize the full range of the pressure scanner. Data acquisition was triggered simultaneously for the microphone and the pressure scanner such that data were synchronized in time. By comparing the amplitudes and phases of the pressure scanner signal to the reference, we can understand the frequency response of the pneumatic tube system (see figure in sample results below).
+
+After obtaining the frequency response, the system's transfer function was estimated with empirical fitting. Finally, the high-frequency pressure signals were recovered with a technique called Wiener Deconvolution. After this correction, the signal cross-correlation between the reference and the signal in question increased from 0.11 to 0.98, and the overall RMS error was reduced by 86% (see figure in sample results below).
+
+
+
+
 <hr>
 <h3> Dual Motor Phase Synchronization </h3>
 
@@ -42,6 +59,9 @@ A Teensy 4.0 microcontroller was used as the central controller for closed-loop 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/ShipRotor/7200rpm_Throttle1kHz.gif" title="Phase-Sync" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="caption">
+    Demo video of the dual rotor phase-synchronization at 7200 RPM.
 </div>
 
 
