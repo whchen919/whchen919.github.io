@@ -83,6 +83,36 @@ After obtaining the frequency response, the system's transfer function was estim
 <br>
 
 <hr>
+<h3> Fluorescent Surface Coating for PIV </h3>
+
+A clean background environment with low light intensity is essential to increase the signal-to-noise ratio (SNR) and obtain high-quality flow field data using particle image velocimetry (PIV). This can become even more challenging when the region of interest (ROI) is near a solid boundary, e.g. a wing or other test articles, where laser reflections greatly contaminate the image such that no reliable data can be resolved. Additionally, due to the limitation of each experimental setup, there are situations where the relative orientation of the incoming laser sheet and the solid boundary cannot be adjusted to mitigate this reflection.
+
+An acrylic paint mixed with the fluorescent dye KR620 (Sulforhodamine B) was applied to the surface of the test model. KR620 was chosen specifically because it is considerably safer to handle compared with traditional methods using Rhodamine 6G or Rhodamine B, which are both highly toxic and dangerous to work with. 
+
+KR620 has a peak excitation wavelength ($\lambda_{ex}$) of approximately 560 nm and a peak emission wavelength ($\lambda_{em}$) of approximately 580 nm. With the Nd:YLF laser used for PIV tests, which has a wavelength of 527 nm, an optical bandpass filter with a bandwidth of 20 nm centered at 527 nm was added in front of the camera lenses to filter out the emitted light from the dye, significantly reducing the overexposure problem close to the model surface.
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/Paint_2.jpg" title="Paint" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The fluorescent coating on the ship deck under normal lighting and exposed with a 527 nm green laser sheet.
+</div>
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/Paint_1.jpg" title="Particles" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Particle images before and after applying the fluorescent coating.
+</div>
+
+
+<br>
+
+<hr>
 <h3> Dual Motor Phase Synchronization </h3>
 
 In order to replicate a dual-rotor vehicle, e.g. the V-22 Osprey, in our sub-scale experiment, a dual-motor system was used to drive to two rotors independently with phase synchronization. The benefit of this setup compared with a single motor with a split transmission shaft or timing belts is that this mechanically isolates the two rotors for independent load measurements.
