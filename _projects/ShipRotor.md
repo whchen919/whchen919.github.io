@@ -68,15 +68,15 @@ After obtaining the frequency response, the system's transfer function was estim
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/ShipRotor/PScanner_3.png" title="Freqencu Response" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="caption">
-        Frequency responses of tubes with different lengths.
+        <div class="caption">
+            Frequency responses of tubes with different lengths.
+        </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/ShipRotor/PScanner_4.png" title="Correction Results" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="caption">
-        Time histories and frequency spectra before and after correction.
+        <div class="caption">
+            Time histories and frequency spectra before and after correction.
+        </div>
     </div>
 </div>
 
