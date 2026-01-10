@@ -15,7 +15,7 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 
 <div class="row">
     <div class="col-sm">
-        {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_1.png" title="Apparatus" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_1.jpg" title="Apparatus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
