@@ -14,7 +14,7 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm">
         {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_1.png" title="Apparatus" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -53,7 +53,7 @@ After obtaining the frequency response, the system's transfer function was estim
 
 In order to replicate a dual-rotor vehicle, e.g. the V-22 Osprey, in our sub-scale experiment, a dual-motor system was used to drive to two rotors independently with phase synchronization. The benefit of this setup compared with a single motor with a split transmission shaft or timing belts is that this mechanically isolates the two rotors for independent load measurements.
 
-A Teensy 4.0 microcontroller was used as the central controller for closed-loop motor speed and phase control. An 8192-counts-per-revolution (CPR) magnetic encoder was mounted behind the motors to track the speed and azimuth. The program was written such that one motor served as the ‘Master,’ where only an RPM controller was implemented. The other motor was configured as a ‘Slave,’ which follows the rotational speed of the ‘Master’ and tries to maintain the desired phase difference between the two motors. The controller outputs the control signals to the two motors using the DShot600 communication protocol, allowing a throttle update rate above 1000 Hz. So far, it has been demonstrated that the phase tracking controller worked well up to at least 6000 RPM with an average error of around 1~2 degrees.
+A Teensy 4.0 microcontroller was used as the central controller for closed-loop motor speed and phase control. A high resolution magnetic encoder was mounted behind the motors to track the speed and azimuth. The program was written such that one motor served as the ‘Master,’ where only an RPM controller was implemented. The other motor was configured as a ‘Slave,’ which follows the rotational speed of the ‘Master’ and tries to maintain the desired phase difference between the two motors. The controller outputs the control signals to the two motors using the DShot600 communication protocol, allowing a throttle update rate above 1 kHz. So far, it has been demonstrated that the phase tracking controller worked well up to over 6000 RPM with an average error of just around 1~2 degrees.
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
