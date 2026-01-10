@@ -16,7 +16,7 @@ Bird flight involves complicated wing kinematics, especially during hovering fli
  Many research have focused on exploring the aerodynamic characteristics of flying insects. However, some birds that are capable of hovering perform much more complicated wing kinematics which are rarely tested. In this study, a robot was built to expeirment with two modified wing trajectories from previous observed wing kinematics of passerines to investigate the aerodynamic differences, one with a larger folding amplitude, similar to that of real hovering passerines, and one with only half the amplitude.
 
 <div class="row">
-    <div class="col-sm-6 offset-sm-3">
+    <div class="col-sm-8 offset-sm-2">
         {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_1.png" title="Flapping-Wing Robot" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -42,7 +42,7 @@ Bird flight involves complicated wing kinematics, especially during hovering fli
 Kinematics of the robot was verified by stereoscopic imaging and utilized direct linear transformation (DLT) to convert from 2D pixels into 3D spatial coordinates, which confirmed that the wing trajectories had high correlation with the desired motion.
 
 <div class="row">
-    <div class="col-sm-6 offset-sm-3">
+    <div class="col-sm-8 offset-sm-2">
         {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_2.png" title="Trajectory" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -50,10 +50,10 @@ Kinematics of the robot was verified by stereoscopic imaging and utilized direct
     The target and recorded robot flapping angle.
 </div>
 
-According to the lift force measurements, 4 charaterisitc phases of the wingbeat cycle were identified. We found that although less folding caused higher negative lift during upstrokes (unshaded), it also induced greater lift at the initial downstroke (shaded) through ‘wake capture’, which ended up producing higher averaged lift (~8%). However, this does not imply that less folding benefits flight performance. We roughly estimate that the power requirement with reduced folding amplitude could be over 23% higher than that of the normal folding condition which compared with the 8% increase in lift is a great downside. Furthermore, the variation in lift production, i.e. the peak-to-peak difference, was much greater, which will lead to larger undesired vertical oscillations while hovering.
+According to the lift force measurements, 4 charaterisitc phases of a wingbeat cycle were identified. We found that although less folding caused higher negative lift during upstrokes (unshaded), it also induced greater lift at the initial downstroke (shaded) through ‘wake capture’, which ended up producing higher averaged lift (~8%). However, this does not imply that less folding benefits flight performance. We roughly estimate that the power requirement with reduced folding amplitude could be over 23% higher than that of the normal folding condition which compared with the 8% increase in lift is a great downside. Furthermore, the variation in lift production, i.e. the peak-to-peak difference, was much greater, which will lead to larger undesired vertical oscillations while hovering.
 
 <div class="row">
-    <div class="col-sm-6 offset-sm-3">
+    <div class="col-sm-8 offset-sm-2">
         {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_3.png" title="Lift" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -74,10 +74,11 @@ According to the lift force measurements, 4 charaterisitc phases of the wingbeat
             Reduced folding amplitude.
         </div>
     </div>
+    <div class="caption">
+        Stronger wake capture effect when transitioning from upstroke to downstroke with reduced folding amplitude.
+    </div>
 </div>
-<div class="caption">
-    Stronger wake capture effect when transitioning from upstroke to downstroke with reduced folding amplitude.
-</div>
+
 
 
 More details can be found in the jounral paper published in <i>Bioinspiration & Biomimetics</i> {%cite chen2021aerodynamic %}.
