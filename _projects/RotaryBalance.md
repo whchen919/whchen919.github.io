@@ -55,6 +55,6 @@ A 5-component force balance to measure the aerodynamic loads was integrated into
 
 The experiment results were compared with those from tests conducted in NASA Ames and other facilities. The differences in coefficients for normal force and pitching moment increased as the angle of attack increased, mainly due to the effect of Reynolds number. On the other hand, side forces and lateral moments showed good agreement, suggesting minimal Reynolds number and compressibility effect.
 
-The entire system was designed, built, and tested within a time frame of about a year, and the obtained results were published in the Journal of Aeronautics, Astronautics, and Aviation {% cite chung2022aerodynamic %} and received the best paper award in 2022.
+The entire system was designed, built, and tested within a time frame of about a year, and the obtained results were published in the <i>Journal of Aeronautics, Astronautics, and Aviation</i> {% cite chung2022aerodynamic %} and received the best paper award in 2022.
 
 

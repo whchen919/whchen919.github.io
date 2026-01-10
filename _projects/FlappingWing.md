@@ -16,6 +16,15 @@ Bird flight involves complicated wing kinematics, especially during hovering fli
  Many research have focused on exploring the aerodynamic characteristics of flying insects. However, some birds that are capable of hovering perform much more complicated wing kinematics which are rarely tested. In this study, a robot was built to expeirment with two modified wing trajectories from previous observed wing kinematics of passerines to investigate the aerodynamic differences, one with a larger folding amplitude, similar to that of real hovering passerines, and one with only half the amplitude.
 
 <div class="row">
+    <div class="col-sm-10 offset-sm-1">
+        {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_1.png" title="Flapping-Wing Robot" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Components of the flapping-wing robot.
+</div>
+
+<div class="row">
     <div class="col-sm-3 offset-sm-3">
         {% include figure.liquid loading="eager" path="assets/img/projects/FlappingWing/Case1-video.gif" title="Normal folding amplitide" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
@@ -41,33 +50,18 @@ Kinematics of the robot was verified by stereoscopic imaging and utilized direct
     The target and recorded robot flapping angle.
 </div>
 
-
+According to the lift force measurements, 4 charaterisitc phases of the wingbeat cycle were identified. We found that although less folding caused higher negative lift during upstrokes (unshaded), it also induced greater lift at the initial downstroke (shaded) through ‘wake capture’, which ended up producing higher averaged lift (~8%). However, this does not imply that less folding benefits flight performance. We roughly estimate that the power requirement with reduced folding amplitude could be over 23% higher than that of the normal folding condition which compared with the 8% increase in lift is a great downside. Furthermore, the variation in lift production, i.e. the peak-to-peak difference, was much greater, which will lead to larger undesired vertical oscillations while hovering.
 
 <div class="row">
     <div class="col-sm-10 offset-sm-1">
-        {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_1.png" title="Flapping-Wing Robot" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/projects/FlappingWing/FlappingWing_3.png" title="Lift" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Components of the flapping-wing robot.
+    Phase-averaged lift of the two different wing trajectories.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+More details can be found in a jounral paper published in <i>Bioinspiration & Biomimetics</i> {%cite chen2021aerodynamic %}.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}
