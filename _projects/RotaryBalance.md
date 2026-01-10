@@ -50,7 +50,7 @@ A 5-component force balance to measure the aerodynamic loads was integrated into
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UDIpH_l_iU?si=oBQ7Ub21AR-a8aiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <div class="caption">
-    The rotary balance in operation during a wind tunnel campaign.
+    The rotary balance in operation during an experiment campaign in the ASTRC low-speed wind tunnel.
 </div>
 
 The experiment results were compared with those from tests conducted in NASA Ames and other facilities. The differences in coefficients for normal force and pitching moment increased as the angle of attack increased, mainly due to the effect of Reynolds number. On the other hand, side forces and lateral moments showed good agreement, suggesting minimal Reynolds number and compressibility effect.
