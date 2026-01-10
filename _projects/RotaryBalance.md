@@ -16,7 +16,7 @@ A new rotary balance system to characterize the aerodynamic charateristics of an
 
 <div class="row">
     <div class="col-sm-6 offset-sm-3">
-        {% include figure.liquid loading="eager" path="assets\img\projects\RotaryBalance\RotaryBalance_Cover.png" title="Rotary Balance" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/RotaryBalance/RotaryBalance_Cover.png" title="Rotary Balance" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ A new rotary balance system to characterize the aerodynamic charateristics of an
 
 <div class="row">
     <div class="col-sm-6 offset-sm-3">
-        {% include figure.liquid loading="eager" path="assets\img\projects\RotaryBalance\RB_2.png" title="CAD" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/RotaryBalance/RB_2.png" title="CAD" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
