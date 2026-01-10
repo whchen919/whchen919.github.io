@@ -20,7 +20,7 @@ I was in charge of the design of the entire mechanical and measurement system on
     </div>
 </div>
 <div class="caption">
-    The ASTRC Rotary Balance.
+    The ASTRC rotary balance.
 </div>
 
 <div class="row">
