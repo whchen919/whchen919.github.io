@@ -37,7 +37,7 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 <hr>
 <h3> Recovery of High-Frequency Pneumatic Pressure Signal </h3>
 
-The dynamic response of a pressure measuring system using pneumatic tubes is known to be prone to signal attenuation, resonance, and phase lag. These problems render them useful only when measuring static or low-frequency pressure fluctuations. Although high-frequency response pressure transducers like microphones are available, they are typically expensive and less suitable for low-pressure applications. As a result, an experimental technique to characterize the system using frequency response analysis (FRA) and recover the high-frequency components of a pneumatic pressure tube system was developed. 
+To obtain the accurate unsteady pressure distributions on the ship deck without loads of expensive transducers such as a Kulite sensor, it is necessary to account for the signal distortion of pneumatic tubes. The dynamic response of a pressure measuring system using pneumatic tubes is known to be prone to signal attenuation, resonance, and phase lag. These problems render them useful only when measuring static or low-frequency pressure fluctuations. Although high-frequency response pressure transducers like microphones are available, they are typically expensive and less suitable for low-pressure applications. As a result, an experimental technique to characterize the system using frequency response analysis (FRA) and recover the high-frequency components of a pneumatic pressure tube system was developed. 
 
 The system identification was performed using an enclosed test chamber with a loudspeaker installed on one side to generate fluctuating pressures. A single high-frequency response pressure sensor (PCB 103B01 microphone) serving as the reference signal was mounted on the other end of the chamber next to the pressure ports where the pneumatic tubes in question were connected.
 
@@ -56,8 +56,8 @@ In order to replicate a dual-rotor vehicle, e.g. the V-22 Osprey, in our sub-sca
 A Teensy 4.0 microcontroller was used as the central controller for closed-loop motor speed and phase control. An 8192-counts-per-revolution (CPR) magnetic encoder was mounted behind the motors to track the speed and azimuth. The program was written such that one motor served as the ‘Master,’ where only an RPM controller was implemented. The other motor was configured as a ‘Slave,’ which follows the rotational speed of the ‘Master’ and tries to maintain the desired phase difference between the two motors. The controller outputs the control signals to the two motors using the DShot600 communication protocol, allowing a throttle update rate above 1000 Hz. So far, it has been demonstrated that the phase tracking controller worked well up to at least 6000 RPM with an average error of around 1~2 degrees.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/projects/ShipRotor/7200rpm_Throttle1kHz.gif" title="Phase-Sync" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-8 offset-sm-2">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/7200rpm_Throttle1kHz.gif" title="Phase_Sync" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
