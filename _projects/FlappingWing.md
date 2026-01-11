@@ -12,6 +12,9 @@ Bird flight involves complicated wing kinematics, especially during hovering fli
 </p>
 <hr>
 
+<h3> Development of the Flapping-Wing Robot </h3>
+
+
 <p align="justify">
  Many research have focused on exploring the aerodynamic characteristics of flying insects. However, some birds that are capable of hovering perform much more complicated wing kinematics which are rarely tested. In this study, a robot was built to expeirment with two modified wing trajectories from previous observed wing kinematics of passerines to investigate the aerodynamic differences, one with a larger folding amplitude, similar to that of real hovering passerines, and one with only half the amplitude.
 </p>
@@ -52,6 +55,12 @@ Kinematics of the robot was verified by stereoscopic imaging and utilized direct
 <div class="caption">
     The target and recorded robot flapping angle.
 </div>
+
+<br>
+
+<hr>
+
+<h3> Hovering Tests in a Water Tank </h3>
 
 <p align="justify">
 According to the lift force measurements, 4 charaterisitc phases of a wingbeat cycle were identified. We found that although less folding caused higher negative lift during upstrokes (unshaded), it also induced greater lift at the initial downstroke (shaded) through ‘wake capture’, which ended up producing higher averaged lift (~8%). However, this does not imply that less folding benefits flight performance. We roughly estimate that the power requirement with reduced folding amplitude could be over 23% higher than that of the normal folding condition which compared with the 8% increase in lift is a great downside. Furthermore, the variation in lift production, i.e. the peak-to-peak difference, was much greater, which will lead to larger undesired vertical oscillations while hovering.
