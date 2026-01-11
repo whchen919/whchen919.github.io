@@ -179,7 +179,7 @@ KR620 has a peak excitation wavelength ($\lambda_{ex}$) of approximately 560 nm 
     </div>
 </div>
 <div class="caption">
-    Particle images before and after applying the fluorescent coating.
+    Particle images around the ship landing deck before and after applying the fluorescent coating.
 </div>
 
 
