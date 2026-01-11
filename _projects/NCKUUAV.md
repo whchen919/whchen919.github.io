@@ -7,15 +7,19 @@ importance: 2
 category: Unmanned Aerial Vehicles
 related_publications: false
 ---
-
+<p align="justify">
 The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at the National Cheng Kung University (NCKU) is an organization run by students. The team is dedicated to designing different aerodynamic configurations of fixed-wing UAVs, ranging from conventional, V-tail, canard, boxed-wings, and etc. We've participated in various design competitions, equivelent to the AIAA Design, Build, Fly competition, in Taiwan. I was honored to serve as the team lead when we participated and won several awards in the annual Taiwan Innovated UAV Design Competition in 2016. After graduated from college, I continued to provide guidance and support to the team alongside the studies for my Master's degree.
+</p>
+
 <br>
 
 <hr>
 
 <h3> The Blazing Sun (烈焰千陽) </h3>
 
+<p align="justify">
 <i>The Blazing Sun</i> is a fixed-wing UAV that had a wing span of 2.4 m and a designed maximum take-off weight of 15 kg. It was designed and built along with our team members during my senior year in college. A canard configuration was chosen to challenge our capability to design a unconventional aircraft that was both stable and also adequately maneuvorable in flight. It competed in the Taiwan Innovated UAV Design Competition in 2016 and secured multiple awards, including the Best Aerodynamic Design Award.
+</p>
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -29,9 +33,9 @@ The UAV Design Team of the Department of Aeronautics and Astronautics (DAA) at t
     Photos of <i>The Blazing Sun</i> during test flights.
 </div>
 
-
+<p align="justify">
 In the early deisign phases, the vehicle performances were estimated using equations and formulas such as those from the USAF S&C DATCOM. Additionally, AVL (Athena Vortex Lattice) was also used during the preliminary design phase to estimate the performace and both static and dynamic stability of the aircraft. CFD using ANSYS Fluent was also performed to verify the vehicle performance, stability margin, and also assess the effectness of the added winglets and how it increased the overall flight efficiency. Once the design was settled, the detialed shape and structures were modeled in CATIA. The final vehicle prototpye was mainly built out of balsa wood and firber glass/carbon fiber lamninated boards that were all fabricated in-house by the team.
-
+</p>
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -86,7 +90,9 @@ In the early deisign phases, the vehicle performances were estimated using equat
 
 <h3> Flying the Aircraft </h3>
 
+<p align="justify">
 In addition to designing and building UAV prototypes, I also enjoy flying them myself! It feels remarkable when being able to fly the aircaft that we've built ourselves and watch it soar in the skies. Currently, I am a FAA part 107 certified remote pilot.
+</p>
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBMStK3i3dI?si=IhTwvmxgi6-Lq6vX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

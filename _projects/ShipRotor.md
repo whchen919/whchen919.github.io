@@ -96,10 +96,13 @@ The system identification was performed using an enclosed test chamber with a lo
     Photos of the characterization setup.
 </div>
 
+<p align="justify">
 The system was programmed to sweep through a range of frequency signals to characterize the full range of the pressure scanner. Data acquisition was triggered simultaneously for the microphone and the pressure scanner such that data were synchronized in time. By comparing the amplitudes and phases of the pressure scanner signal to the reference, we can understand the frequency response of the pneumatic tube system.
+</p>
 
-
+<p align="justify">
 After obtaining the frequency response, the system's transfer function was estimated with empirical fitting. Finally, the high-frequency pressure signals were recovered with a technique called Wiener Deconvolution. After this correction, the signal cross-correlation between the reference and the signal in question increased from 0.11 to 0.98, and the overall RMS error was reduced by 86%.
+</p>
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
@@ -121,11 +124,17 @@ After obtaining the frequency response, the system's transfer function was estim
 <hr>
 <h3> Fluorescent Surface Coating for PIV </h3>
 
+<p align="justify">
 A clean background environment with low light intensity is essential to increase the signal-to-noise ratio (SNR) and obtain high-quality flow field data using particle image velocimetry (PIV). This can become even more challenging when the region of interest (ROI) is near a solid boundary, e.g. a wing or other test articles, where laser reflections greatly contaminate the image such that no reliable data can be resolved. Additionally, due to the limitation of each experimental setup, there are situations where the relative orientation of the incoming laser sheet and the solid boundary cannot be adjusted to mitigate this reflection.
+</p>
 
+<p align="justify">
 An acrylic paint mixed with the fluorescent dye KR620 (Sulforhodamine B) was applied to the surface of the test model. KR620 was chosen specifically because it is considerably safer to handle compared with traditional methods using Rhodamine 6G or Rhodamine B, which are both highly toxic and dangerous to work with. 
+</p>
 
+<p align="justify">
 KR620 has a peak excitation wavelength ($\lambda_{ex}$) of approximately 560 nm and a peak emission wavelength ($\lambda_{em}$) of approximately 580 nm. With the Nd:YLF laser used for PIV tests, which has a wavelength of 527 nm, an optical bandpass filter with a bandwidth of 20 nm centered at 527 nm was added in front of the camera lenses to filter out the emitted light from the dye, significantly reducing the overexposure problem close to the model surface.
+</p>
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
@@ -151,9 +160,13 @@ KR620 has a peak excitation wavelength ($\lambda_{ex}$) of approximately 560 nm 
 <hr>
 <h3> Dual Motor Phase Synchronization </h3>
 
+<p align="justify">
 In order to replicate a dual-rotor vehicle, e.g. the V-22 Osprey, in our sub-scale experiment, a dual-motor system was used to drive to two rotors independently with phase synchronization. The benefit of this setup compared with a single motor with a split transmission shaft or timing belts is that this mechanically isolates the two rotors for independent load measurements.
+</p>
 
+<p align="justify">
 A Teensy 4.0 microcontroller was used as the central controller for closed-loop motor speed and phase control. A high resolution magnetic encoder was mounted behind the motors to track the speed and azimuth. The program was written such that one motor served as the ‘Master,’ where only an RPM controller was implemented. The other motor was configured as a ‘Slave,’ which follows the rotational speed of the ‘Master’ and tries to maintain the desired phase difference between the two motors. The controller outputs the control signals to the two motors using the DShot600 communication protocol, allowing a throttle update rate above 1 kHz. So far, it has been demonstrated that the phase tracking controller worked well up to over 6000 RPM with an average error of just around 1~2 degrees.
+</p>
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
