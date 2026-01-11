@@ -5,15 +5,16 @@ description: Electric fixed-wing UAVs of different aerodynamic configurations wi
 img: assets/img/projects/SolarUAV/SolarUAV_Cover.png
 importance: 1
 category: Unmanned Aerial Vehicles
-related_publications: true
+related_publications: false
 ---
 
 Multiple electric fixed-wing UAVs of different aerodynamic configurations were developed with wing-integrated high-efficiency solar cells to extend flight endurance. Manufacturing of the vehicle from the composite airframe to system integration were all completed in-house by students from the undergraduate UAV design team from, and we competed in the 2020 Taiwan Innovative Green Energy UAV competition.
 
 <hr>
 
+<h3> Development of the First Prototype </h3>
 
-
+This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU. About $10,000 NTD (about $3000 USD) was awarded to our team for the development of the prototype.
 
 
 

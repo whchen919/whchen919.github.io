@@ -300,16 +300,16 @@
     // }
   ],
   "references": [
-    {
-      "name": "Professor Juergen Rauleder",
-      "icon": "fa-solid fa-user",
-      "reference": "Assistant Professor and Associate Director of Vertical Lift Research Center of Excellence at Georgia Tech."
-    },
-    {
-      "name": "Professor Szu-I Yeh",
-      "icon": "fa-solid fa-user",
-      "reference": "Associate Professor in Fluid Mechanics and Aerodynamics at National Cheng Kung University."
-    }
+    // {
+    //   "name": "Professor Juergen Rauleder",
+    //   "icon": "fa-solid fa-user",
+    //   "reference": "Assistant Professor and Associate Director of Vertical Lift Research Center of Excellence at Georgia Tech."
+    // },
+    // {
+    //   "name": "Professor Szu-I Yeh",
+    //   "icon": "fa-solid fa-user",
+    //   "reference": "Associate Professor in Fluid Mechanics and Aerodynamics at National Cheng Kung University."
+    // }
   ],
   "projects": [
     // {
