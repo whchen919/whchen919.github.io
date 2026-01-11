@@ -178,8 +178,5 @@ A Teensy 4.0 microcontroller was used as the central controller for closed-loop 
 </div>
 
 
-
-{% cite chen2024unsteadyJAHS %}
-{% cite chen2025windtunnel %}
-{% cite chen2026subscale %}
+Multiple conference paper and journal articles were published under the research project. {% cite chen2024unsteadyJAHS %}{% cite chen2025windtunnel %}{% cite chen2026subscale %}
 

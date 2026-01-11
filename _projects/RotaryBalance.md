@@ -12,6 +12,8 @@ My role as a research engineer was to develope a prototype rotary balance system
 </p>
 <hr>
 
+<h3> Development of the Rotary Balance </h3>
+
 <p align="justify">
 I was in charge of the design of the entire mechanical and measurement system on rotating side of the system and the SDM model. The system was designed to perform experiments with wind speeds up to 50 m/s and a rotational speed up to 300 RPM. Finite element analysis (FEA) was conducted to ensure the structure was able to withstand the expected loads on the system, including gravitational, aerodynamic, and centrifugal forces with acceptable margins to spare.
 </p>
@@ -50,6 +52,11 @@ The majority of SDM model was 3D-printed and reinforced by laminating fiberglass
 <p align="justify">
 A 5-component force balance to measure the aerodynamic loads was integrated into the body of the SDM along with the signal amplifiers to increase the signal-to-noise ratio (SNR). The balance was fully calibrated abd varified in-house and showed good linearity within the designed range.
 </p>
+
+<br>
+
+<hr>
+<h3> Wind Tunnel Testing of the Rotary Balance </h3>
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UDIpH_l_iU?si=oBQ7Ub21AR-a8aiH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
