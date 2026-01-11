@@ -7,9 +7,9 @@ importance: 1
 category: Research
 related_publications: true
 ---
-
+<p align="justify">
 The shipboard operation of rotorcraft poses significant challenges to the pilots onboard or the flight  controls of unoccupied aerial systems (UAS). Aerodynamic interactions between the ship’s airwake and the wake of the rotor(s) result in a highly unsteady turbulent flow field that impacts the rotorcraft aerodynamic and flight dynamic behavior. This project goes through model-scale experiments with main goal being to provide a holistic understanding of the airwake–rotor interaction through data collected using particle image velocimetry (PIV), surface pressure, and six-component rotor hub loads measurements. Physical insights and measured data are also used to verify and validate the numerical simulation models developed within the lab.
-
+</p>
 <hr>
 
 
