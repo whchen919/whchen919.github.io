@@ -53,15 +53,6 @@ The time-averaged hob loads showed the change in rotor thrust, pitching, and rol
     Heat map of the change in rotor hub loads while hovering at different locations (black dots) around the landing deck.
 </div>
 
-<!-- <div class="row">
-    <div class="col-sm-10 offset-sm-1">
-        {% include figure.liquid path="assets/img/projects/ShipRotor/HW_VertPIV_T_Estimate.png" title="T_Estimate" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Thrust contribution estimated through three vertical PIV planes bisecting the rotor disk at different locations above the landing deck.
-</div> -->
-
 <p align="justify">
 PIV flow fields right below the rotor disk showed changes in the downwash pattern also highly dependent on the hovering location, causing distinct changes in the rotor hub loads. 
 </p>
