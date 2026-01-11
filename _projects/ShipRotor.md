@@ -32,12 +32,12 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 </div>
 
 <div class="row">
-    <div class="col-sm">
+    <div class="col-sm-10 offset-sm-1">
         {% include figure.liquid path="assets/img/projects/ShipRotor/HW_VertPIV_T_Estimate.png" title="T_Estimate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Thrust contribution estimated through three vertical PIV planes bisecting the rotor disk different locations above the landing deck.
+    Thrust contribution estimated through three vertical PIV planes bisecting the rotor disk at different locations above the landing deck.
 </div>
 
 <div class="row">
@@ -70,9 +70,13 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 <hr>
 <h3> Recovery of High-Frequency Pneumatic Pressure Signals </h3>
 
+<p align="justify">
 To obtain the accurate unsteady pressure distributions on the ship deck without loads of expensive transducers such as a Kulite sensor, it is necessary to account for the signal distortion of pneumatic tubes. The dynamic response of a pressure measuring system using pneumatic tubes is known to be prone to signal attenuation, resonance, and phase lag. These problems render them useful only when measuring static or low-frequency pressure fluctuations. As a result, an experimental technique to characterize the system using frequency response analysis (FRA) and recover the high-frequency components of a pneumatic pressure tube system was developed. 
+</p>
 
+<p align="justify">
 The system identification was performed using an enclosed test chamber with a loudspeaker installed on one side to generate fluctuating pressures. A single high-frequency response pressure sensor (PCB 103B01 microphone) serving as the reference signal was mounted on the other end of the chamber next to the pressure ports where the pneumatic tubes in question were connected.
+</p>
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
