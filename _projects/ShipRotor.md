@@ -67,7 +67,7 @@ PIV flow fields right below the rotor disk showed changes in the downwash patter
 </div>
 
 <p align="justify">
-A dyanamically approaching rotor, where rotor hub loads, ship deck pressure, and PIV were tacken simultaneously during a continuous approach maneuver towards the ship's landing deck, was also carried out. Results showed correlations between all three measurment techniques which helped identifying cause and effects.
+A dyanamically approaching rotor, where rotor hub loads, ship deck pressure, and PIV were tacken simultaneously during a continuous approach maneuver towards the ship's landing deck, was also carried out. Results showed correlations between all three measurment techniques which helped identifying cause and effect.
 </p>
 
 <div class="row justify-content-sm-center">
