@@ -22,6 +22,16 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
     Experimental Apparatus.
 </div>
 
+<div class="row">
+    <div class="col-sm">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_2.jpg" title="Heat Map" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Variation in rotor hub loads while hovering at different locations around the landing deck.
+</div>
+
+
 <div class="row justify-content-sm-center">
 <div style="width: 100%; min-width: 400px; max-width: 800px;">
 <div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
