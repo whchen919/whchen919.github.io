@@ -14,7 +14,9 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 
 <h3> Wind Tunnel Experiments on Ship-Rotor Aerodyanmic Interactions </h3>
 
+<p align="justify">
 A three-axis automated linear traverse system was built in the Harper wind tunnel at Georgia Tech to automatically position a notional rotor model around the 3D space behind a generic ship model for measurements. 
+</p>
 
 <div class="row">
     <div class="col-sm">
@@ -25,7 +27,9 @@ A three-axis automated linear traverse system was built in the Harper wind tunne
     Experimental apparatus.
 </div>
 
+<p align="justify">
 The rotor model assembly has a fully controllable swashplate to trim the rotor and attached to a 6-component force balance to measurement unsteady variaions in the rotor loads. A magnetic rotary encoder was also integrated to track the rotor azimuth angle for rotational speed control and also enabled phase-correlated measurements.
+</p>
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
@@ -36,7 +40,9 @@ The rotor model assembly has a fully controllable swashplate to trim the rotor a
     The rotor mdoel assembly. (Left: External view; Right: Internal view)
 </div>
 
-
+<p align="justify">
+The time-averaged hob loads showed the change in rotor thrust, pitching, and rolling moments had distinct variations while hovering at different hovering locations. We observed a port-side-skewed thrust deficit, a symmetric pitching moment pattern about the ship centerline, and a strong asymmetric rolling moment charateristics. These effects were found to be also highly dependent on the rotational direction of the rotor.
+</p>
 
 <div class="row">
     <div class="col-sm">
@@ -44,17 +50,21 @@ The rotor model assembly has a fully controllable swashplate to trim the rotor a
     </div>
 </div>
 <div class="caption">
-    Variation in rotor hub loads while hovering at different locations around the landing deck.
+    Heat map of the change in rotor hub loads while hovering at different locations (black dots) around the landing deck.
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm-10 offset-sm-1">
         {% include figure.liquid path="assets/img/projects/ShipRotor/HW_VertPIV_T_Estimate.png" title="T_Estimate" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     Thrust contribution estimated through three vertical PIV planes bisecting the rotor disk at different locations above the landing deck.
-</div>
+</div> -->
+
+<p align="justify">
+PIV flow fields right below the rotor disk showed changes in the downwash pattern also highly dependent on the hovering location, causing distinct changes in the rotor hub loads. 
+</p>
 
 <div class="row">
     <div class="col-sm">
@@ -65,7 +75,9 @@ The rotor model assembly has a fully controllable swashplate to trim the rotor a
     Change in rotor downwash velocities while hovering at different locations above the landing deck.
 </div>
 
-
+<p align="justify">
+A dyanamically approaching rotor, where rotor hub loads, ship deck pressure, and PIV were tacken simultaneously during a continuous approach maneuver towards the ship's landing deck, was also carried out. Results showed correlations between all three measurment techniques which helped identifying cause and effects.
+</p>
 
 <div class="row justify-content-sm-center">
 <div style="width: 100%; min-width: 400px; max-width: 800px;">
