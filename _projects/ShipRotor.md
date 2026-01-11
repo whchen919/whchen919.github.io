@@ -31,6 +31,25 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
     Variation in rotor hub loads while hovering at different locations around the landing deck.
 </div>
 
+<div class="row">
+    <div class="col-sm">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/HW_VertPIV_T_Estimate.png" title="T_Estimate" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Thrust contribution estimated through three vertical PIV planes bisecting the rotor disk different locations above the landing deck.
+</div>
+
+<div class="row">
+    <div class="col-sm">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/LongPos_Downwash.PNG" title="Downwash" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Change in rotor downwash velocities while hovering at different locations above the landing deck.
+</div>
+
+
 
 <div class="row justify-content-sm-center">
 <div style="width: 100%; min-width: 400px; max-width: 800px;">
@@ -45,8 +64,11 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 
 <br>
 
+
+
+
 <hr>
-<h3> Recovery of High-Frequency Pneumatic Pressure Signal </h3>
+<h3> Recovery of High-Frequency Pneumatic Pressure Signals </h3>
 
 To obtain the accurate unsteady pressure distributions on the ship deck without loads of expensive transducers such as a Kulite sensor, it is necessary to account for the signal distortion of pneumatic tubes. The dynamic response of a pressure measuring system using pneumatic tubes is known to be prone to signal attenuation, resonance, and phase lag. These problems render them useful only when measuring static or low-frequency pressure fluctuations. As a result, an experimental technique to characterize the system using frequency response analysis (FRA) and recover the high-frequency components of a pneumatic pressure tube system was developed. 
 
