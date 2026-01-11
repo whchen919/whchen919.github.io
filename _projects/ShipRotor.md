@@ -12,6 +12,9 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 </p>
 <hr>
 
+<h3> Wind Tunnel Experiments on Ship-Rotor Aerodyanmic Interactions </h3>
+
+A three-axis automated linear traverse system was built in the Harper wind tunnel at Georgia Tech to automatically position a notional rotor model around the 3D space behind a generic ship model. 
 
 <div class="row">
     <div class="col-sm">
@@ -19,8 +22,19 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
     </div>
 </div>
 <div class="caption">
-    Experimental Apparatus.
+    Experimental apparatus.
 </div>
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        {% include figure.liquid path="assets/img/projects/ShipRotor/ShipRotor_4.gif" title="Rotor Assmebly" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The rotor mdoel assembly. (Left: External view; Right: Internal view)
+</div>
+
+
 
 <div class="row">
     <div class="col-sm">
@@ -129,7 +143,7 @@ A clean background environment with low light intensity is essential to increase
 </p>
 
 <p align="justify">
-An acrylic paint mixed with the fluorescent dye KR620 (Sulforhodamine B) was applied to the surface of the test model. KR620 was chosen specifically because it is considerably safer to handle compared with traditional methods using Rhodamine 6G or Rhodamine B, which are both highly toxic and dangerous to work with. 
+An in-house developed acrylic paint mixed with the fluorescent dye KR620 (Sulforhodamine B) was applied to the surface of the test model. KR620 was chosen specifically because it is considerably safer to handle compared with traditional methods using Rhodamine 6G or Rhodamine B, which are both highly toxic and dangerous to work with. 
 </p>
 
 <p align="justify">
