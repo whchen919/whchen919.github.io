@@ -12,7 +12,7 @@ The shipboard operation of rotorcraft poses significant challenges to the pilots
 </p>
 <hr>
 
-<h3> Wind Tunnel Experiments on Ship-Rotor Aerodyanmic Interactions </h3>
+<h3> Wind Tunnel Experiments</h3>
 
 <p align="justify">
 A three-axis automated linear traverse system was built in the Harper wind tunnel at Georgia Tech to automatically position a notional rotor model around the 3D space behind a generic ship model for measurements. 
