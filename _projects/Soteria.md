@@ -39,6 +39,7 @@ Placed 2nd in the 40th Vertical Flight Society Graduate Student Design Competiti
     </div>
 </div>
 
+<br>
 
 <hr>
 
@@ -77,3 +78,27 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <h3>Vehicle Control Algorithm and Real-Time Simulation</h3>
 
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_1.png" title="Control Mode Scheduling" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Vehicle control mode scheduling.
+        </div>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_2.png" title="UI" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Full vehicle real-time simulation user interface.
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_3.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Flight controller and simulation system architecture.
+</div>
