@@ -51,13 +51,13 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/GA_1.png" title="FlowChart_GA" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/GA_1.png" title="FlowChart_GA" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             High level flow chart of the vehicle sizing program based on genetic algorithm.
         </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/GA_2.png" title="FlowChart_FE" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/GA_2.png" title="FlowChart_FE" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Fitness evaluation function where detailed vehicle attributes, such as dimensions, weights, and performance metrics, were estimated and scored.
         </div>
@@ -67,7 +67,7 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/GA_3.png" title="Hisotry" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/GA_3.png" title="Hisotry" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -80,13 +80,13 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_1.png" title="Control Mode Scheduling" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/FC_1.png" title="Control Mode Scheduling" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Vehicle control mode scheduling.
         </div>
     </div>
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_2.png" title="UI" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/FC_2.png" title="UI" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Full vehicle real-time simulation user interface.
         </div>
@@ -96,7 +96,7 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/Sotaria/FC_3.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/FC_3.png" title="System Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
