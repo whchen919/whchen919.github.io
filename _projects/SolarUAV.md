@@ -15,7 +15,7 @@ Multiple electric fixed-wing UAVs of different aerodynamic configurations were d
 <h3> Development of the First Prototype </h3>
 
 <p align="justify">
-This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU. About $10,000 NTD (about $3000 USD) was awarded to our team for the development of the prototype.
+This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU. About \$10,000 NTD (about \$3000 USD) was awarded to our team for the development of the prototype.
 </p>
 
 <p style="text-align:center;">
