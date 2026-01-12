@@ -76,6 +76,8 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <br>
 
+<hr>
+
 <h3>Vehicle Control Algorithm and Real-Time Simulation</h3>
 
 <div class="row">
