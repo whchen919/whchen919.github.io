@@ -51,7 +51,3 @@ In collaboration with the NCKU UAV Design Team, we attened the 2020 Taiwan Innov
 </div>
 
 
-<hr>
-
-<h3> Second Prototype </h3>
-
