@@ -21,7 +21,7 @@ This early project was funded by the "Dreams Come True" campaign launched by the
 
 <div class="row">
     <div class="col-sm-8 offset-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/projects/SolarUAV/Solar_Timeline" title="Project Timeline" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/SolarUAV/Solar_Timeline.png" title="Project Timeline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
