@@ -15,7 +15,7 @@ As a side project during the year study for Mater's degree, multiple electric fi
 <h3> Development of the Prototype </h3>
 
 <p align="justify">
-This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU to support transforming innovative ideas into real world prototypes. About \$10,000 NTD (about \$3,200 USD) was awarded to our team for the development of the prototype.
+This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU to support transforming innovative ideas into real world prototypes. A total of \$10,000 NTD (about \$3,200 USD) was awarded to our team for the development of the prototype.
 </p>
 
 
