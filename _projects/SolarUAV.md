@@ -43,7 +43,9 @@ During the development of the aircraft, we established multiple unique skills an
 
 <h3> 2020 Taiwan Innovative Green Energy UAV Competition </h3>
 
+<p align="justify">
 In collaboration with the NCKU UAV Design Team, we attened the 2020 Taiwan Innovative Green Energy UAV Competition. A 6-meter span solar UAV was designed and built using techniques developed with the above-mentioned protoype. The goal was to conduct an autonomous flight from a coast to an island about 13 km offshore and perform an airdrop supply mission.
+</p>
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lPSCIsWwU_I?si=97XxdwP7sE9APcuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
