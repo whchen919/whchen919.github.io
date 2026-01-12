@@ -26,10 +26,16 @@ This early project was funded by the "Dreams Come True" campaign launched by the
 
 <hr>
 
-<h3> Collaboration with the NCKU UAV Team </h3>
+<h3> 2020 Taiwan Innovative Green Energy UAV Competition </h3>
 
 
 
+
+
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPSCIsWwU_I?si=97XxdwP7sE9APcuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 <hr>
 
