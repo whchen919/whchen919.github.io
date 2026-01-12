@@ -12,16 +12,29 @@ As a side project during the year study for Mater's degree, multiple electric fi
 </p>
 <hr>
 
-<h3> Development of the First Prototype </h3>
+<h3> Development of the Prototype </h3>
 
 <p align="justify">
-This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU. About \$10,000 NTD (about \$3,200 USD) was awarded to our team for the development of the prototype.
+This early project was funded by the "Dreams Come True" campaign launched by the Innovative Headquaters in NCKU to support transforming innovative ideas into real world prototypes. About \$10,000 NTD (about \$3,200 USD) was awarded to our team for the development of the prototype.
 </p>
+
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/projects/SolarUAV/Solar_Timeline" title="Project Timeline" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Development timeline of the solar UAV prototype.
+</div>
+
 
 <p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5TLAOXJUu44?si=ju5MT4LIqCxzfjFx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-
+<div class="caption">
+    Maiden flight of the prototype aircraft.
+</div>
 
 
 <hr>
@@ -41,3 +54,4 @@ In collaboration with the NCKU UAV Design Team, we attened the 2020 Taiwan Innov
 <hr>
 
 <h3> Second Prototype </h3>
+
