@@ -8,7 +8,7 @@ category: Other Student Activities
 related_publications: false
 ---
 <p align="justify">
-Placed 2nd in the 40th Vertical Flight Society Graduate Student Design Competition, Soteria is a high-speed compound foldable tiltrotor configuration designed to carry a large payload volume with a minimum 450-knot cruise speed at altitudes above 20,000 ft and achieving a minimum radius of operation of over 500 nautical miles, while being able to operate over unprepared surfaces.
+Placed 2<sup>nd</sup> in the 40<sup>th</sup> Vertical Flight Society Graduate Student Design Competition, Soteria is a high-speed compound foldable tiltrotor configuration designed to carry a large payload volume with a minimum 450-knot cruise speed at altitudes above 20,000 ft and achieving a minimum radius of operation of over 500 nautical miles, while being able to operate over unprepared surfaces.
 </p>
 
 <hr>
