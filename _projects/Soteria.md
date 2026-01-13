@@ -46,7 +46,7 @@ Placed 2nd in the 40th Vertical Flight Society Graduate Student Design Competiti
 <h3>Preliminary Vehicle Sizing with Genetic Algorithm</h3>
 
 <p align="justify">
-A MATLAB sizing code was written from scratch and implemented for the conceptual design phase to size and optimize the vehicle design parameters based on the mission requirements and the selected vehicle configuration. This program was done without using the optimization toolbox and integrates basic rotary-wing and fixed-wing performance analysis methods along with data-based weight estimation regression models to select design variables that produce feasible vehicle designs and then optimizes the target attributes through a genetic algorithm (GA).
+A MATLAB sizing code was written from scratch and implemented for the conceptual design phase to size and optimize the vehicle design parameters based on the mission requirements and the selected vehicle configuration. This program was done without using the optimization toolbox and integrates basic rotary-wing and fixed-wing performance analysis methods along with data-based weight estimation regression models, e.g. NDARC, to explore variables in the design space that produce feasible vehicle designs and then optimizes the target attributes through a genetic algorithm (GA).
 </p>
 
 <div class="row">
