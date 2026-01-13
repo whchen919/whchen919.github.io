@@ -80,6 +80,10 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 
 <h3>Vehicle Control Algorithm and Real-Time Simulation</h3>
 
+<p align="justify">
+A vehicle flight simulator was developed in Simulink, using precomputed vehicle aerodynamic coefficients as look-up tables. The vehilce switches between control laws as it transitions from vertical to horizontal flight.
+</p>
+
 <div class="row">
     <div class="col-sm mt-2 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/FC_1.png" title="Control Mode Scheduling" class="img-fluid rounded z-depth-1" %}
