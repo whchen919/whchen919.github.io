@@ -25,13 +25,13 @@ Placed 2nd in the 40th Vertical Flight Society Graduate Student Design Competiti
 
 
 <div class="row">
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm-5 offset-sm-1">
         {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/Soteria_2.png" title="The Team" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Team Soteria.
         </div>
     </div>
-    <div class="col-sm mt-2 mt-md-0">
+    <div class="col-sm-5">
         {% include figure.liquid loading="eager" path="assets/img/projects/Soteria/Soteria_3.png" title="Certificate" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
             Second place award certificate.
