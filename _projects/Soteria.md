@@ -81,7 +81,7 @@ A MATLAB sizing code was written from scratch and implemented for the conceptual
 <h3>Vehicle Control Algorithm and Real-Time Simulation</h3>
 
 <p align="justify">
-A vehicle flight simulator was developed in Simulink, using precomputed vehicle aerodynamic coefficients as look-up tables. The vehilce switches between control laws as it transitions from vertical to horizontal flight. 
+A vehicle flight simulator was developed in Simulink. Vehicle aerodynamics were precomputed as look-up tables using low-order methods like Blade Element Momentum Theory (BEMT) and Vortex Lattice Method in AVL. The vehilce switches between control laws based on its forward velocity as it transitions from vertical to horizontal flight. 
 </p>
 
 <div class="row">
